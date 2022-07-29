@@ -17,7 +17,7 @@ I have experience in cross-platform development, creating complex relay protecti
 <br />
 
 ### Languages:
-Java/Python, also I know С a little 🤘🧐. 
+Java, Python, also I know С a little 🤘🧐. 
 
 ### Tools:
 Core Java, Maven, Git, JIRA/TAIGA, SL4J, pcap4j, XML/Json, CSS3, Jade.
