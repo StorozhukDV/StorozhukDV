@@ -13,7 +13,7 @@ I have experience in cross-platform development, creating complex relay protecti
 ### Connect with me:
 👇
 
-[<img align="left" alt="StorozhukDV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="StorozhukDV | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=LinkedIn&stype=image&lr=213&pos=5&img_url=http%3A%2F%2Favisto.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fcomment-utiliser-linkedin.jpg)" />][linkedin]
 
 <br />
 
