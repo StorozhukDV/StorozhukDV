@@ -29,9 +29,9 @@ Core Java, Maven, Git, JIRA/TAIGA, SL4J, pcap4j, XML/Json, CSS3, Jade.
 
 
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StorozhukDV&langs_count=8&theme=cobalt" />
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=StorozhukDV&show_icons=true&theme=cobalt" />
+<alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StorozhukDV&langs_count=8&theme=cobalt" />
+<br />
+<alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=StorozhukDV&show_icons=true&theme=cobalt" />
 
 
 
