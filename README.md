@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=StorozhukDV)
 
-## BackEnd Java Developer and Electric Power Engineer
+## BackEnd Developer and Electric Power Engineer
 I am 23 years old. I have been doing programming for about 1.5 years, trying out different technologies.
 
 I have experience in cross-platform development, creating complex relay protection algorithms, mathematical optimization algorithms, working with STM32, machine learning (recently, by the way) , and I also had experience in writing a multi-agent system
