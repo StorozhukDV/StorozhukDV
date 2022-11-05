@@ -21,7 +21,7 @@ I have experience in cross-platform development, creating complex relay protecti
 Java, SQL, Python, also I know С a little 🤘🧐. 
 
 ### Tools:
-Core Java, SQLite, PostgreSQL, RDF, CIM, Maven, Git, JIRA/TAIGA, SL4J, pcap4j, XML/Json, CSS3, Jade, Lombok.
+Java Core, SQL, Apache Maven, Git, REST, MSA, JIRA/TAIGA, Docker, JUnit, XML/Json, Hibernate ORM, Spring Framework(Core,Data,Web).
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
