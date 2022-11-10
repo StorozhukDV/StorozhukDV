@@ -5,7 +5,7 @@
 ## BackEnd Developer and Electric Power Engineer
 I am 23 years old. I have been doing programming for about 3 years, trying out different technologies.
 
-I have experience in cross-platform development, developed applications that were built on microservice architecture, algorithms for high-load applications
+I have experience in cross-platform development, MSA applications, algorithms for high-load applications
 
 👩‍💻 I’m currently working on two projects related to new control algorithms for electrical distribution networks
 
