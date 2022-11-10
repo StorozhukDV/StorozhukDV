@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=StorozhukDV)
 
 ## BackEnd Developer and Electric Power Engineer
-I am 23 years old. I have been doing programming for about 3 years, trying out different technologies.
+I am 23 years old. About of three years of development experience, trying out different technologies.
 
 I have experience in cross-platform development, MSA applications, algorithms for high-load applications
 
