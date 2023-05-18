@@ -11,6 +11,7 @@ I have experience in cross-platform development, MSA applications, algorithms fo
 
 
 ### Connect with me:
+danilstorojuk@yandex.ru
 👇
 
 [<img align="left" alt="StorozhukDV | LinkedIn" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg" />][linkedin]
@@ -18,10 +19,10 @@ I have experience in cross-platform development, MSA applications, algorithms fo
 <br />
 
 ### Languages:
-Java, SQL, Python, also I know С a little 🤘🧐. 
+Java, C#, Python, SQL, PostgreSQL.
 
 ### Tools:
-Java Core, SQL, Apache Maven, Git, REST, MSA, JIRA/TAIGA, Docker, JUnit, XML/Json, Hibernate ORM, Spring Framework(Core,Data,Web).
+Spring Framework(Core,Data,Web), .NET Framework, Entity, Hibernate ORM, SQL, Maven, Git, REST, MSA, JIRA/TAIGA, Docker, JUnit, XML/Json, .
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
