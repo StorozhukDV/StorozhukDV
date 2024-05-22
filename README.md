@@ -22,7 +22,7 @@ danilstorojuk@yandex.ru
 Java, C#, Python, SQL, PostgreSQL, MsSQL.
 
 ### Tools:
-Spring Framework(Core,Data,Web), .NET Framework, Entity, Hibernate ORM, SQL, Maven, Git, REST, MSA, JIRA/TAIGA, Docker, JUnit, XML/Json, ASP NET, Identity server 4, Elastic search, Click house, Kafka, MongoDB, Azure, Data Studio.
+Spring Framework(Core,Data,Web), .NET Framework, Entity, Hibernate ORM, SQL, Maven, Git, REST, MSA, JIRA/TAIGA, Docker, JUnit, XML/Json, ASP NET, Identity server 4, Elastic search, Click house, Kafka, MongoDB, Azure, Data Studio, React.
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
